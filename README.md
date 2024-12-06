@@ -200,6 +200,30 @@
 ## 사유서 관리 - 02
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/4ca75d2e-d828-4297-ba08-fe53e1630777">
+<img  alt="사유서관리-02" src="https://github.com/user-attachments/assets/00c04474-614b-444c-8161-9f7bace210e7">
 <p/>
+
+> 리스트에 있는 사유서를 확인 후 처리 상태를 지정하여 저장할 수 있습니다. 
+> * 관리자 메모 기능을 통해 반려 당한 사유 등을 적을 수 있습니다.
+
+# 05. 계정 정보 및 변경경
+## 계정 설정 - 01
+
+<p align = "center">
+<img  alt="image" src="https://github.com/user-attachments/assets/850833ae-05e3-40df-b444-925f4ce6e7be">
+<p/>
+
+>현재 등록되어 있는 기관정보를 확인할 수 있습니다.
+>기관명을 제외한 사업자번호, 이메일, 기관 전화번호, 기관주소를 변경할 수 있습니다.
+
+## 계정 설정 - 02
+
+<p align = "center">
+<img  alt="image" src="https://github.com/user-attachments/assets/95b125bc-ade3-45c8-882c-e999b94c2c24">
+<p/>
+
+>현재 등록되어 있는 담당자의 정보를 확인할 수 있습니다.
+>아이디를 제외한 비밀번호, 담당자 성명, 연락처, 이메일 등을 변경할 수 있습니다.
+> * 확인란에는 변경할 비밀번호를 동일하게 작성하여야 합니다.
+
 
