@@ -2,8 +2,8 @@
 # 01. 시작하기
 ## 접속 및 로그인 
 <p align = "center">
-<img src="https://github.com/user-attachments/assets/df47d041-93c3-46ac-9a91-8afc17bf8177" >
-</p>
+<img  alt="image" src="https://github.com/user-attachments/assets/a47aab5b-9f92-4b61-ab94-c1c3868d11b4">
+<p/>
 
 > 사전에 제공받은 아이디와 비밀번호로 로그인하여 관리자 계정에 접속할 수 있습니다.
 
@@ -11,7 +11,7 @@
 ## 메인 화면 (통합 일정)
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/03e80b03-a4d4-46ed-8b16-b4606d2a8598">
+<img  alt="image" src="https://github.com/user-attachments/assets/6afe713c-8e06-4c30-9a14-ab0ea94f2361">
 <p/>
 
 >1. **통합일정** : 체크히어의 메인화면으로 월별 강의 일정을 보여줍니다.
@@ -23,7 +23,7 @@
 ## 통합 일정 내 상세 조작법
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/d7c32386-0fa6-4c66-a401-aa65d252a7c0">
+<img  alt="image" src="https://github.com/user-attachments/assets/5a2f251a-e4ff-4f93-85cd-e40be89b9a69">
 <p/>
 
 >1. ‘+’ 아이콘을 클릭하여, 강의 일정을 추가할 수 있습니다.
@@ -34,7 +34,7 @@
 ## 회원 초대하기 - 01
 
 <p align = "center">
-<img alt="image" src="https://github.com/user-attachments/assets/9b2f3833-0c2b-4e00-a020-5746c8d7a8a5">
+<img  alt="image" src="https://github.com/user-attachments/assets/9ab14a4b-0f60-4c26-ba3e-c12507e6ad90">
 <p/>
 
 >1. 초대자 목록을 수강생/강사별, 이름별로 검색할 수 있습니다.
@@ -47,7 +47,7 @@
 ## 회원 초대하기 - 02
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/4a83b486-635c-4e4f-a387-117084d3d95a">
+<img  alt="image" src="https://github.com/user-attachments/assets/c9f8aecb-188c-4334-9a17-706c0a5f9af2">
 <p/>
 
 >1. 일괄 등록 시 업로드 양식을 다운로드 받아 주어진 양식에 맞게 수강생 정보를 업로드 합니다.
@@ -60,7 +60,7 @@
 ## 강의 생성하기 - 01
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/a0866159-9490-44e4-afe9-6e80c6f72a90">
+<img  alt="image" src="https://github.com/user-attachments/assets/208dd021-d2e1-4d08-a844-c43c38be768b">
 <p/>
 
 >1. 강의명을 검색하여 해당 강의 항목을 바로 확인 할 수 있습니다.
@@ -71,7 +71,7 @@
 ## 강의 생성하기 - 02
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/6a68c455-86c0-4d3e-ba35-48e3d06b1b07">
+<img  alt="image" src="https://github.com/user-attachments/assets/8b4c0765-a084-4fd5-a3da-499e9b56d888">
 <p/>
 
 >1. 등록된 Wi-Fi & Beacon 기기를 확인할 수 있습니다.
@@ -82,7 +82,7 @@
 ## 강의 생성하기 - 03
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/fbfaa397-dbe7-4820-aaeb-c5ddbf8bf5f0">
+<img  alt="image" src="https://github.com/user-attachments/assets/bb480136-1102-405f-a8f4-9c5094358be1">
 <p/>
 
 >1. **강의명**을 작성해주세요.
@@ -94,7 +94,7 @@
 ## 강의 생성하기 - 04
 
 <p align = "center">
-<img alt="image" src="https://github.com/user-attachments/assets/c1ef4b58-8b39-412d-b46e-a431b6b16ccf">
+<img  alt="image" src="https://github.com/user-attachments/assets/60f759c9-6b63-453e-806f-1aeaa0a368f0">
 <p/>
 
 >1. ‘+’ , ‘-’ 기호를 통해 강의를 추가 및 삭제할 수 있습니다.
@@ -107,7 +107,7 @@
 ## 강의 생성하기 - 05
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/3cd6e486-9885-4250-8cbb-705cab04ee3f">
+<img alt="image" src="https://github.com/user-attachments/assets/f2baedca-6686-4229-8133-a567ebf9969d">
 <p/>
 
 >시간표 형식으로 생성된 강의를 한번에 볼 수 있습니다.
@@ -119,7 +119,7 @@
 ## 강의 생성하기 - 06
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/8de7120b-ce9a-4f1e-8368-9dad31ac1fc4">
+<img  alt="image" src="https://github.com/user-attachments/assets/cd83dd86-8ca0-4bde-969e-69429954b722">
 <p/>
 
 >1. 강의하실 장소의 명칭을 지정하실 수 있습니다.
@@ -135,7 +135,7 @@
 ## 수강생/강사 배정하기 - 01
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/3e2c9cef-182c-461d-930f-4e0c64391a6e">
+<img  alt="image" src="https://github.com/user-attachments/assets/3a7b40b6-6314-4b13-95b4-545f1841652a">
 <p/>
 
 >1. 강의관리에서 수강생을 등록할 강의를 선택하여 상세 보기를 클릭합니다.
@@ -147,7 +147,7 @@
 ## 수강생/강사 배정하기 -02
 
 <p align = "center">
-<img alt="image" src="https://github.com/user-attachments/assets/436d2cc3-d485-413b-82a0-070ecae0f2d9">
+<img  alt="image" src="https://github.com/user-attachments/assets/46a6b88e-4cf4-4450-afa2-5445acad30df">
 <p/>
 
 >1. 가입 회원을 수강생/강사별, 이름별로 확인할 수 있습니다.
@@ -158,7 +158,7 @@
 ## 강의 출석 조회 - 01
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/7e60d72e-e9d3-4a96-a244-7fe2ec25c2a9">
+<img  alt="image" src="https://github.com/user-attachments/assets/5a432503-5f94-499f-bf03-9527226e6c3a">
 <p/>
 
 >1. 날짜, 강의별로 출석을 조회할 수 있습니다.
@@ -169,7 +169,7 @@
 ## 강의 출석 조회 - 02
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/9f8d4477-6dad-4d03-810b-362faa6f7293">
+<img  alt="image" src="https://github.com/user-attachments/assets/e1f0f93f-ab3a-43ef-a88f-155fe28fa832">
 <p/>
 
 >1. 관리자가 사용자의 입실, 퇴실처리를 변경할 수 있습니다.
@@ -181,16 +181,16 @@
 ## 수강생 출결 통계
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/a9a1bf17-a1d2-4143-8466-3a1fd1fdb131">
+<img  alt="image" src="https://github.com/user-attachments/assets/bf14533d-ad00-411c-984e-2883c880b7d5">
 <p/>
 
 >1.날짜, 강의, 이름별로 수강생을 조회할 수 있습니다.
 >2.엑셀 파일은 날짜별 출결 현황을 보여줍니다.
 
-## 사유서 관리 -01
+## 사유서 관리 - 01
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/4a9cfec9-a30a-49c1-9835-6a5bb8c2a9a7">
+<img  alt="image" src="https://github.com/user-attachments/assets/efe13d4e-754d-4213-b8d8-89943aa15bf5">
 <p/>
 
 >1. 사용자가 작성한 사유서를 날짜, 강의, 이름, 처리상태 별로 조회할 수 있습니다.
@@ -200,7 +200,7 @@
 ## 사유서 관리 - 02
 
 <p align = "center">
-<img  alt="사유서관리-02" src="https://github.com/user-attachments/assets/00c04474-614b-444c-8161-9f7bace210e7">
+<img  alt="image" src="https://github.com/user-attachments/assets/71d50970-8a11-42e2-b01d-6b721751a6ed">
 <p/>
 
 > 리스트에 있는 사유서를 확인 후 처리 상태를 지정하여 저장할 수 있습니다. 
@@ -210,7 +210,7 @@
 ## 계정 설정 - 01
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/850833ae-05e3-40df-b444-925f4ce6e7be">
+<img  alt="image" src="https://github.com/user-attachments/assets/c5580d67-56a8-458f-a444-b6923a8837ec">
 <p/>
 
 >현재 등록되어 있는 기관정보를 확인할 수 있습니다.
@@ -219,7 +219,7 @@
 ## 계정 설정 - 02
 
 <p align = "center">
-<img  alt="image" src="https://github.com/user-attachments/assets/95b125bc-ade3-45c8-882c-e999b94c2c24">
+<img  alt="image" src="https://github.com/user-attachments/assets/84f9e335-03b2-49fa-83ae-b478be417953">
 <p/>
 
 >현재 등록되어 있는 담당자의 정보를 확인할 수 있습니다.
