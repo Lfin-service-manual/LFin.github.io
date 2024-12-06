@@ -11,8 +11,8 @@
 ## 메인 화면 (통합 일정)
 
 <p align = "center">
-<img alt="메인화면" src="https://github.com/user-attachments/assets/c9b11018-5a4b-4607-997c-16633df9326a">
-</p>
+<img  alt="image" src="https://github.com/user-attachments/assets/03e80b03-a4d4-46ed-8b16-b4606d2a8598">
+<p/>
 
 >1. **통합일정** : 체크히어의 메인화면으로 월별 강의 일정을 보여줍니다.
 >2. **강의관리** : 강의 생성, 삭제, 활성화 등 강의를 관리하는 탭입니다.
