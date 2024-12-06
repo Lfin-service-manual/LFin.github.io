@@ -1,9 +1,14 @@
 # 체크히어 관리자용은 구글 크롬 브라우저를 통해 체크히어 관리 시스템 (https://check.ihereapp.com/login) 에 접속하세요.
+<p align = "center">
+<img src="https://github.com/user-attachments/assets/df47d041-93c3-46ac-9a91-8afc17bf8177" >
+</p>
 
-![image](https://github.com/user-attachments/assets/df47d041-93c3-46ac-9a91-8afc17bf8177)
 
 
-![통합일정](https://github.com/user-attachments/assets/16c99cce-8582-4437-980d-88c09c0ee77c)
+
+<p align = "center">
+<img src = "https://github.com/user-attachments/assets/16c99cce-8582-4437-980d-88c09c0ee77c">
+</p>
 
 통합일정 : 체크히어의 메인화면으로 월별 강의 일정을 보여줍니다.
 
